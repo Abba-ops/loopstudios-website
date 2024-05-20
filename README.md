@@ -1,15 +1,23 @@
-# Loopstudios Tailwind Project
+# Tailwind CSS Project
 
-![Project Screenshot](https://i.ibb.co/HdrQ5WH/Screenshot-12.png)
+![Project Screenshot](https://i.ibb.co/QbzNvjp/Screenshot-32.png)
 
-## Overview
+## Project Overview
 
-This Tailwind CSS project, titled Loopstudios, aims to create a visually appealing and responsive website.
+This project showcases the use of Tailwind CSS to create a modern and responsive website.
+
+## Features
+
+- Utilizes Tailwind CSS utility classes for styling.
+- Responsive design to ensure compatibility across various devices.
+- Clean and organized project structure for easy maintenance.
+
+## Usage
 
 To use the project:
 
 1. Clone the repository.
 2. Install dependencies using `npm install`.
-3. Run with `npm run watch`.
+3. Run the project using `npm run watch`.
 
-Feel free to explore and customize the project!
+Feel free to explore and customize the project to suit your needs!
